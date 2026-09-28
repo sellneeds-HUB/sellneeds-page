@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-28",
+  "runtime_files": [
+    {
+      "file": "index.html",
+      "sha256": "1bb45026b6ff5e77762fa34aa1e7217d2033ea33716dfe13fb2ad13b8bb2eeb4",
+      "identical_to_base": true
+    },
+    {
+      "file": "css/style.css",
+      "sha256": "d14eb2618f17edefac02fd6b15e7023941673e54d43d60bcfbae41cedc6cc2e7",
+      "identical_to_base": true
+    },
+    {
+      "file": "js/script.js",
+      "sha256": "3c7cf28e12f0f6cc2ef4718ba85096978f36741dd90a7bd070dc8e9a8f39d304",
+      "identical_to_base": true
+    },
+    {
+      "file": "assets/images/tiktok-botao.webp",
+      "sha256": "c0adfdcfef2823149683c188015c8db20f06068f27d30480ed9c12be430f645d",
+      "identical_to_base": true
+    },
+    {
+      "file": "assets/images/mercado-livre-orbita.webp",
+      "sha256": "ecac6fbdd157cd60032e247120314bc954f33462a21ea9146a78206ed8f2e66c",
+      "identical_to_base": true
+    },
+    {
+      "file": "assets/images/mercado-livre-botao.webp",
+      "sha256": "736df15b5796e5efada436929707ddb8b86effaf768003ec316f8ef43d3fa5dc",
+      "identical_to_base": true
+    },
+    {
+      "file": "assets/images/shopee-orbita.webp",
+      "sha256": "210318c0d4b3a8f9cd313828234edab62856e0ffbe0e85533688556591d321d9",
+      "identical_to_base": true
+    },
+    {
+      "file": "assets/images/tiktok-orbita.webp",
+      "sha256": "0be838f5983beb5bdf4eccc684c8babeb6717f05e45276f9ae6ac5cd9c18fe10",
+      "identical_to_base": true
+    },
+    {
+      "file": "assets/images/shopee-botao.webp",
+      "sha256": "71dd927e23e75cde60714c9bc5b9c16249d9d71ab07d6fb713d4c57f420f9cf2",
+      "identical_to_base": true
+    },
+    {
+      "file": "assets/images/sellneeds.webp",
+      "sha256": "0dc4b6c9cb9a8bd952c1d410bf19ca9037a3321b94f2d37264b52982e7649264",
+      "identical_to_base": true
+    }
+  ],
+  "deployed": false
+}
